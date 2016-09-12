@@ -19,9 +19,8 @@ section{
 
 h2{
 	text-align:Right;
-	float:top-right;
-	float:top;
-	top:0px;
+	float:right;
+	position:absolute;
 	margin:0px;
 }
 p{
