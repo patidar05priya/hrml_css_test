@@ -19,9 +19,10 @@ section{
 
 h2{
 	text-align:Right;
-	float:right;
 	position:absolute;
 	margin:0px;
+	float:right;
+	
 }
 p{
 	clear:Right;
