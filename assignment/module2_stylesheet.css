@@ -20,6 +20,7 @@ section{
 h2{
 	text-align:Right;
 	float:right;
+	top:0px;
 }
 p{
 	clear:Right;
